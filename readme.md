@@ -162,7 +162,7 @@ Would you like to start again? Press 's' for start or 'q' for quit.
 
 ## 🎥 Demo Video
 
-📺 [Click here to watch the demonstration](https://drive.google.com/file/d/1MtTKqQzFocTCfm1FYNsikRWpZqJCbkWc/view?usp=sharing)
+📺 [Click here to watch the demonstration](https://drive.google.com/file/d/1U2fotQTcmuZitHUgO2nnGj90F2JkHr6Q/view?usp=sharing)
 
 ---
 
@@ -170,3 +170,11 @@ Would you like to start again? Press 's' for start or 'q' for quit.
 
 *Ali Ahasan*
 
+---
+
+## 📆 Submission Checklist
+
+- [x] Project uploaded to GitHub ✅
+- [x] `.idea`, `.gradle`, `gradle`, and `build` folders/files added to `.gitignore` ✅
+- [x] Project information documented in `README.md` ✅
+- [x] Video recorded and linked in `README.md` ✅
